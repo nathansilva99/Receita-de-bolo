@@ -1,0 +1,1 @@
+Projeto criado utilizando alguns conceitos básicos de HTML e CSS. O desafio foi proposto pela DevMedia e a ideia era replicar uma página simples de receita de bolo, usando CSS para personalizar as fontes do projeto.
